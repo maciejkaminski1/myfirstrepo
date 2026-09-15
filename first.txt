@@ -1,1 +1,2 @@
+to jest nowa linijka
 to jest krótki tekst
